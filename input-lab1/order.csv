@@ -1,0 +1,11 @@
+Order_ID,Customer,City,Product,Quantity,Price,Order_Date
+O101,Rahul,Delhi,Laptop,1,55000,2026-08-01
+O102,Priya,Mumbai,Mouse,2,800,2026-08-01
+O103,Amit,Delhi,Keyboard,1,1500,2026-08-02
+O104,Sneha,Bangalore,Laptop,1,55000,2026-08-02
+O105,Rahul,Delhi,Mouse,3,800,2026-08-03
+O106,Priya,Mumbai,Keyboard,2,1500,2026-08-03
+O107,Amit,Delhi,Laptop,1,55000,2026-08-04
+O108,Neha,Chennai,Mouse,2,800,2026-08-04
+O109,Rahul,Delhi,Keyboard,1,1500,2026-08-05
+O110,Sneha,Bangalore,Laptop,2,55000,2026-08-05

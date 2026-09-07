@@ -1,0 +1,32 @@
+[
+  {
+    "customer_id": "C101",
+    "name": "Rahul",
+    "city": "Delhi",
+    "age": 21
+  },
+  {
+    "customer_id": "C102",
+    "name": "Priya",
+    "city": "Mumbai",
+    "age": 22
+  },
+  {
+    "customer_id": "C103",
+    "name": "Amit",
+    "city": "Delhi",
+    "age": 21
+  },
+  {
+    "customer_id": "C104",
+    "name": "Sneha",
+    "city": "Bangalore",
+    "age": 23
+  },
+  {
+    "customer_id": "C105",
+    "name": "Neha",
+    "city": "Chennai",
+    "age": 22
+  }
+]

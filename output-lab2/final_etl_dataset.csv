@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Product_ID,Quantity,Order_Date,Customer_Name,City,Product_Name,Category,Price,Total_Amount
+O101,C101,P101,2,2026-08-01,Rahul,Delhi,Laptop,Electronics,55000,110000
+O102,C102,P102,1,2026-08-01,Priya,Mumbai,Mouse,Accessories,800,800
+O103,C103,P103,3,2026-08-02,Amit,Delhi,Keyboard,Accessories,1500,4500
+O104,C104,P101,1,2026-08-02,Sonal,Bangalore,Laptop,Electronics,55000,55000
+O105,C101,P102,2,2026-08-03,Rahul,Delhi,Mouse,Accessories,800,1600
+O106,C102,P103,1,2026-08-03,Priya,Mumbai,Keyboard,Accessories,1500,1500
+O107,C103,P101,2,2026-08-04,Amit,Delhi,Laptop,Electronics,55000,110000
+O108,C105,P102,4,2026-08-04,Neha,Chennai,Mouse,Accessories,800,3200
+O109,C101,P103,1,2026-08-05,Rahul,Delhi,Keyboard,Accessories,1500,1500
+O110,C104,P101,2,2026-08-05,Sonal,Bangalore,Laptop,Electronics,55000,110000
